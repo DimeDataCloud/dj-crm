@@ -111,7 +111,7 @@ dj-crm/
 
 ## Status
 
-No longer hosted; kept as a reference build.
+Reference build. The HALO workspace lists a live deployment for this project. Confirm the current hosting with the owner before relying on a live URL.
 
 ## License
 
