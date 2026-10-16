@@ -1,0 +1,13 @@
+{
+  "name": "dj-crm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Booking CRM and club lead generator for artist management.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.js",
+    "discover": "node --env-file-if-exists=.env server/discover-cli.js"
+  },
+  "engines": { "node": ">=22" }
+}
