@@ -1,3 +1,5 @@
+Reference build. The maintained, documented version of this product is [booking-os](https://github.com/DimeDataCloud/booking-os).
+
 # dj-crm (Booking OS)
 
 A booking CRM and club lead generator for an artist manager. It finds nightclubs, dance halls and music bars in the New York and New Jersey metro, tracks every venue through a booking pipeline, and handles calendar, money and follow-up automation. Desktop-first, usable on a phone, installable as a home-screen app.
